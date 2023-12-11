@@ -77,6 +77,11 @@ Generate a scatter plot of mouse weight versus average observed tumor volume for
 ## Calculate Correlation and Regression
 Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
 
+## Submission
+Review all the figures and tables that you generated in this assignment. Write at least three observations or inferences that can be made from the data. Include these observations at the top of your notebook.
+
+To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
+
 Plot the linear regression model on top of the previous scatter plot.
 
 ## Notes
