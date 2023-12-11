@@ -32,7 +32,7 @@ Display the number of unique mice IDs in the data, and then check for any mouse 
 
 Display the updated number of unique mice IDs.
 
-Generate Summary Statistics
+## Generate Summary Statistics
 Create a DataFrame of summary statistics. Remember, there is more than one method to produce the results you're after, so the method you use is less important than the result.
 
 Your summary statistics should include:
